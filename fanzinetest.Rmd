@@ -1,0 +1,52 @@
+---
+title: "L'école 42 - J.A.J.* grâce à Whatsapp"
+output:
+  html_document:
+    df_print: paged
+    theme: journal
+---
+ 
+
+*\*Joyeux Anniversaire Julien - (palindrome offert à cette occasion)*
+
+
+
+---
+
+20 avril 2016. La scène se déroule en Cornouaille britannique. La grande époque du *roaming* hors de prix vaut une déconnexion au cours de la journée. Retour du tour, on allume le chauffage, on allume le wifi - besoins primaires des bipèdes modernes.
+
+Push.
+
+
+
+> Bonjour Blandine, une tribune dans Le Monde vraiment bien. Julien Boudisseau. Ps : bonnes vacances.
+> 
+
+Voilà. <br/>
+Quelque chose prend forme, et on ne le sait pas encore.
+
+Le meilleur fanzine de cet espace a déjà été réalisé - en **édition limitée**. Ceux qui nous lisent et qui n'auraient pu en consulter le rendu trouveront difficilement l'objet, dont un exemplaire reste jalousement gardé sous un joli camouflage protecteur d'enveloppe kraft. 
+
+Il nous a toutefois semblé utile d'apporter au lecteur un complément infographique. Comme une photo de ce roman mouvant et changeant. Car si Roland Barthes le disait vertigineusement : une photographie "dit la mort au futur", c'est aussi un moyen de rappeler ce qui ne l'est pas, dans ce futur mortuaire.
+
+*Tu croyais quand même pâs que tu allais avoir droit à de simples images à chaque anniversaire. Il faut un peu de jus de crâne pour garder la force de l'âge.*
+
+Plongeons donc dans les effluves chiffrées de ce pavé, dont le futur se jouera surtout bientôt dans vos meilleures librairies (d'ici un siècle ou deux).
+
+
+
+---
+
+## Sur la vague
+
+:::info
+14 314 messages
+:::
+OUI. Ceci n'est pas un *trick*. C'est bien le DEUXIèME palindrome offert aujourd'hui. 14314.
+
+Soit, en quatre ans presque tout pile (1467&nbsp;jours très exactement - pour des besoins de réalisation technique, ce décompte s'arrête au 3&nbsp;avril, 20h06 et 19&nbsp;secondes.), une moyenne de 9,7 messages par jour. <br/>Certes, on aurait pu arrondir, mais admettons-le : certains messages dans le lot valent bien, il est vrai, moins que 1. Une pensée pour tous ces "Oui", "Vu", "LOL" et autres "Ah !".
+
+Mais que donne ce gros chiffre obscur lorsqu'on le déroule dans le temps, comme la vague déroule son écume pour satisfaire l'adrénaline du surfeur au milieu de la crainte ? Quelques spots basques et bretons, ainsi qu'un beau mur de Nazaré.
+
+<img src="./assets/JAJchrono.svg">
+
